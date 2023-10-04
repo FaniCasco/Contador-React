@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  margin-top: 30vh;
+}
+
+body {
+  background-image: url(./componentes/img/fondo-body.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.ordenacion {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+h1 {
+  color: azure;
+  font-family: 'Mooli', sans-serif;
+}
+
+.btn {
+  padding: 10px 30px;
+  font-size: 2em;
+}
+
+h2{
+  color: blanchedalmond;
+ 
+}
